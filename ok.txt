@@ -1,0 +1,11 @@
+total 8632
+drwxrwxr-x 6 ec2-user ec2-user      99 Mar 18 13:46 apache-maven-3.5.3
+-rw-r--r-- 1 root     root     8799579 Feb 24  2018 apache-maven-3.5.3-bin.tar.gz
+-rw-r--r-- 1 root     root       18205 Mar 18 13:40 download.cgi
+-rw-rw-r-- 1 ec2-user ec2-user     671 Apr  6 06:35 Hello.class
+-rw-rw-r-- 1 ec2-user ec2-user     166 Apr  6 05:29 Hello.java
+-rw-rw-r-- 1 ec2-user ec2-user       0 Apr  6 06:57 index.html
+-rw-rw-r-- 1 ec2-user ec2-user       0 Apr  6 07:41 ok.txt
+-rw-rw-r-- 1 ec2-user ec2-user     115 Apr  6 06:57 readme.txt
+-rw-rw-r-- 1 ec2-user ec2-user     149 Apr  6 07:39 text.txt
+drwxrwxr-x 3 ec2-user ec2-user      55 Mar 17 14:55 tomcat
